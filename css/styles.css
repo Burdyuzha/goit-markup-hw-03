@@ -256,6 +256,9 @@ letter-spacing: 0.02em;
 text-align: center;
 }
 
+.portfolio{
+  padding: 120px 0;
+}
 
 .portfolio-title{
 font-weight: 700;
@@ -265,8 +268,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
-padding-top: 120px;
-padding-bottom: 72px;
+margin-bottom: 72px;
 }
 
 .portfolio-list{
@@ -281,7 +283,7 @@ padding-bottom: 72px;
 }
 
 .portfolio-block{
-  padding: 32px 32px;
+  padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
 
